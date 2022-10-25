@@ -14,6 +14,7 @@ Users will be able to:
  * Register
  * Login
  * Create a profile
+ * Edit their profile
  * Calculate their water intake needs
  * Log their daily water intake
  * Log their mood
