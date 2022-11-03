@@ -14,6 +14,7 @@ For this assignment you will need to upload your resume and provide links to you
 [LinkedIn Profile](https://www.linkedin.com/in/beth-marshall-philadelphia/)
 
 ### Resume
+[Beth Marshall Resume.pdf](https://github.com/BMars101/liftoff-assignments/files/9930288/Beth.Marshall.Resume.pdf)
 
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
